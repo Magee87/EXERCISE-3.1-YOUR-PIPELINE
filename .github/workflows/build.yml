@@ -1,7 +1,4 @@
 
-34 lines (29 sloc)  876 Bytes
- 
-
 name: Release DevOps with Docker # Name of the workflow
 
 # On a push to the branch named master
